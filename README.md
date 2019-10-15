@@ -1,1 +1,1 @@
-# Machine-Learning-to-predict-Loan-Rapayment
+# Machine-Learning-to-predict-Loan-Repayment
